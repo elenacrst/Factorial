@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Factorial Calculator</string>
+    <string name="input_hint">Type a number...</string>
+    <string name="instructions_text">Introduce the number below. The result will be displayed at the bottom.</string>
+    <string name="action_reset">Reset</string>
+    <string name="result">Result :\n%1$s! = %2$s</string>
+    <string name="action_calculate">CALCULATE</string>
+    <string name="error">Error : invalid input.\nPlease introduce an integer value.</string>
+    <string name="error_toobig">Error: the number you entered is too big.</string>
+</resources>
